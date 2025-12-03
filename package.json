@@ -1,0 +1,10 @@
+{
+  "name": "jdgm-vercel-api",
+  "version": "1.0.0",
+  "main": "api/ingest.js",
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}
